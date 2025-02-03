@@ -1,6 +1,6 @@
 # Exp2MIDI
 
-Convert Expression Pedal Analog Signal to MIDI Using Arduino Leonardo.
+Convert expression pedal analog signal to MIDI using Arduino Leonardo.
 
 Connection : TRS Cable
 
